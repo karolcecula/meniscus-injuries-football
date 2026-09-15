@@ -1,4 +1,6 @@
 # football-injury-analysis
+
+## Research question
 What patterns characterize injuries in professional football, how do they vary across different player groups, what are their consequences for player and team performance, and to what extent can elevated injury risk be predicted before an injury occurs?
 
 ## Who could benefit from this analysis?
